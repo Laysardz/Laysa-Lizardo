@@ -3,13 +3,18 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Times New Roman , sans-serif;
+  border: 1px solid black;
+ padding: 10px
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightpink;
 }
 
 
 /* Style the header */
 header {
-  background-color: #0000FF;
+  background-color: #FFE4C4;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -52,7 +57,7 @@ nav ul {
 article {
   float: left;
   padding: 20px;
-  width: 70%;
+  width: 40%;
   background-color: #f1f1f1;
 }
 
@@ -61,6 +66,15 @@ section:after {
   content: "";
   display: table;
   clear: both;
+}
+div {
+border: 1px solid black;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 10%
+margin-right: 10%
+padding: 10px
+background-color: lightblue;
 }
 
 /* Style the footer */
