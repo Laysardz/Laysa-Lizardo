@@ -3,14 +3,16 @@
 }
 
 body {
-  font-family: Times New Roman , sans-serif;
+  font-family: "Century Gothic",Verdana,sans-serif
   border: 1px solid black;
  padding: 10px
   margin-right: 150px;
   margin-left: 80px;
   background-color: lightpink;
 }
-
+h1,h2,h3 {
+    font-family: Rockwell,"Times New Roman",serif;
+  }
 
 /* Style the header */
 header {
