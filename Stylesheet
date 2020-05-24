@@ -22,6 +22,7 @@ header {
   font-size: 35px;
   color: white;
 }
+<css" rel="stylesheet" href="styles/mystyle.css" media="screen">
  a {
     color: blue;
     background-color: white;
